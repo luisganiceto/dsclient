@@ -1,0 +1,10 @@
+insert into tb_client(name, cpf, income, birth_date, children) values ('Edson Benício Renan da Cunha', '196.965.368-01', 5209, TIMESTAMP WITH TIME ZONE '1991-12-15T00:00:00.0Z', 3);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Antonio Thiago Edson da Luz', '968.963.755-07', 6483, TIMESTAMP WITH TIME ZONE '1941-11-17T00:00:00.0Z', 2);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Bruno Benedito Mateus da Cunha', '504.791.184-50', 8498, TIMESTAMP WITH TIME ZONE '1965-04-04T00:00:00.0Z', 5);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Sandra Jaqueline Corte Real', '382.300.949-42', 3998, TIMESTAMP WITH TIME ZONE '1983-04-17T00:00:00.0Z', 2);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Emanuelly Mariane Alessandra Brito', '771.405.784-00', 7636, TIMESTAMP WITH TIME ZONE '2001-07-03T00:00:00.0Z', 0);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Valentina Marcela Fátima Ferreira', '633.711.425-66', 5604, TIMESTAMP WITH TIME ZONE '1991-12-01T00:00:00.0Z', 5);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Tereza Heloise Sophia Nascimento', '369.531.969-04', 2954, TIMESTAMP WITH TIME ZONE '1998-09-15T00:00:00.0Z', 0);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Fernando Pietro Viana', '660.362.293-99', 7057, TIMESTAMP WITH TIME ZONE '1999-03-10T00:00:00.0Z', 1);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Fátima Marina Lavínia da Cruz', '730.927.010-03', 4394, TIMESTAMP WITH TIME ZONE '2000-08-04T00:00:00.0Z', 0);
+insert into tb_client(name, cpf, income, birth_date, children) values ('Edson Arthur Tomás Araújo', '954.421.568-92', 5553, TIMESTAMP WITH TIME ZONE '1981-08-26T00:00:00.0Z', 5) ;
